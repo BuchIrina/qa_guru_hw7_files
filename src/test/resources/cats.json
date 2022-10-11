@@ -1,0 +1,11 @@
+{
+    "name": "Murka",
+    "age": 3,
+    "parameters": {
+      "weight": 2.5,
+      "height": 24,
+      "coloration": "black"
+    },
+    "ability": ["purr", "jump", "catch mice"],
+    "likesToSleep": true
+  }
